@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaxCalc</string>
+    <string name="text">Tax Calc</string>
+    <string name="txt">HELLO,HA</string>
+    <string name="desc">Settings logo</string>
+    <string name="cont">Arrow</string>
+    <string name="tax">PRE TAX</string>
+    <string name="num">50*2=100</string>
+    <string name="view">AC</string>
+    <string name="sum">+-</string>
+    <string name="per">%</string>
+    <string name="div">/</string>
+    <string name="b">7</string>
+    <string name="c">8</string>
+    <string name="d">9</string>
+    <string name="e">*</string>
+    <string name="f">4</string>
+    <string name="g">5</string>
+    <string name="h">6</string>
+    <string name="i">-</string>
+    <string name="j">1</string>
+    <string name="k">2</string>
+    <string name="l">3</string>
+    <string name="m">+</string>
+    <string name="n">0</string>
+    <string name="o">.</string>
+    <string name="p">=</string>
+</resources>
